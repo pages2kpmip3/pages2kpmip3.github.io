@@ -1,0 +1,29 @@
+url: https://pages2kpmip3.github.io
+baseurl:
+
+# Site settings
+title: PAGES 2k PMIP3
+email: jsmerdon@ldeo.columbia.edu
+description: "Comparing data and model estimates of hydroclimate variability and change over the Common Era"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: C4D8E2
+  secondary: 00CCFF
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
