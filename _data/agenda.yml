@@ -1,13 +1,13 @@
 - name: State of the science
-  description: "1. Participants will review the present status of the knowledge
-  on (1) the interpretation and availability of hydroclimate proxies and reconstructions;
+  description: "Participants will review the present state of the science
+  regarding: (1) the interpretation and availability of hydroclimate proxies and reconstructions;
   (2) the role of internal variability and external forcings in the last-millennium
   simulations and the implications for hydroclimate; (3) the most appropriate techniques
-  used for data-model comparison both for local hydroclimate proxies and syntheses;
+  for data-model comparisons, both for local hydroclimate proxies and syntheses;
   and (4) techniques for data assimilation and forward modeling."
   imgSrc: "img/agenda/"
 - name: Data-model comparisons
-  description: " 2. A team of participants will organize themselves to lead
+  description: " A team of participants will organize themselves to lead
   preliminary diagnostic analyses between existing simulations and datasets
   and investigate suitable methods for data-model comparisons involving hydroclimate."
   imgSrc: "img/agenda/"
