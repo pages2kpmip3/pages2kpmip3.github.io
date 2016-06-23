@@ -1,10 +1,7 @@
 - name: State of the science
-  description: "Participants will<br> review the present state of the science
-  regarding: (1) the interpretation and availability of hydroclimate proxies and reconstructions;
-  (2) the role of internal variability and external forcings in the last-millennium
-  simulations and the implications for hydroclimate; (3) the most appropriate techniques
-  for data-model comparisons, both for local hydroclimate proxies and syntheses;
-  and (4) techniques for data assimilation and forward modeling."
+  description: "Hydroclimate over the Common Era from Sr/Ca and Oxygen Isotope Records of Corals - Thomas Felis<br>
+  Hydroclimate Signals in Tree-Ring Chronologies Across Time and Space - Kevin Anchukaitis<br>
+  Interpreting Past Hydroclimate Variability from Sedimentary Records: Challenges and Considerations - Jessica Tierney"
   imgSrc: "img/minimal-digital-rain.jpg"
 
 - name: Data-model comparisons
