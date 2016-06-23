@@ -1,7 +1,8 @@
 - name: Presentations
   description: "Hydroclimate over the Common Era from Sr/Ca and Oxygen Isotope Records of Corals<br>
   Thomas Felis<br>
-  Hydroclimate Signals in Tree-Ring Chronologies Across Time and Space - Kevin Anchukaitis<br><br>
+  Hydroclimate Signals in Tree-Ring Chronologies Across Time and Space<br>
+  Kevin Anchukaitis<br>
   Interpreting Past Hydroclimate Variability from Sedimentary Records: Challenges and Considerations<br>
   Jessica Tierney<br>
   Australasian Monsoon Variability During the Common Era Inferred from Indo-Pacific Speleothem Records<br>
@@ -15,7 +16,21 @@
   Last Millennium Simulations at GISS Including Water Isotopes<br>
   Gavin Schmidt and Allegra LeGrande<br>
   Simulations of the Common Era in PMIP4/CMIP6: Overview and Specific Issues for Studies of Hydroclimate<br>
-  Johann Jungclaus<br>"
+  Johann Jungclaus<br>
+  The Global Monsoon Response to Volcanic Eruptions in the CMIP5 past1000 Simulations and Model Simulations of FGOALS<br>
+  Wenmin Man<br> 
+  An Ensemble of Simulations for the Last Millennium with CESM<br>
+  Bette Otto-Bliesner<br>
+  Hydroclimate Responses to Volcanic Eruptions in CESM<br>
+  Samantha Stevenson<br>
+  What We Talk About When We Talk About Hydroclimate: Challenges in Model/Data Comparisons<br>
+  Ben Cook<br>
+  Droughts in the Last Two Millennia: Challenges in its Definition and Connection to Modes of Variability<br>
+  Christoph Raible and Flavio Lehner<br>
+  Challenges and Opportunities for Data-Model Comparisons in Australia<br>
+  Ailie Gallant<br>
+  Paleoclimate Model-Data Comparisons of Hydroclimate over North America<br>
+  Sloan Coats<br>"
   imgSrc: "img/minimal-digital-rain.jpg"
 
 - name: Educational Outreach Event
