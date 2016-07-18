@@ -1,52 +1,99 @@
-- name: Presentations
-  description: "Hydroclimate over the Common Era from Sr/Ca and Oxygen Isotope Records of Corals<br>
-  Thomas Felis<br>
-  Hydroclimate Signals in Tree-Ring Chronologies Across Time and Space<br>
-  Kevin Anchukaitis<br>
-  Interpreting Past Hydroclimate Variability from Sedimentary Records: Challenges and Considerations<br>
-  Jessica Tierney<br>
-  Australasian Monsoon Variability During the Common Era Inferred from Indo-Pacific Speleothem Records<br>
-  Michael Griffiths<br>
-  Iso2k: A Community-Sourced Global Database of Paleo-Water Isotopes from the Past Two Millennia<br>
-  Bronwen Konecky and Jud Partin<br>
-  The Role of Tree Ring Drought Atlases in Climate Change Research: State of the Art and Future Developments<br>
-  Edward Cook<br>
-  Warm-Season Precipitation Reconstruction over Asia in the Past Half Millennium: Tibetan Plateau<br>
-  Huan Zhang<br>
-  Last Millennium Simulations at GISS Including Water Isotopes<br>
-  Gavin Schmidt and Allegra LeGrande<br>
-  Simulations of the Common Era in PMIP4/CMIP6: Overview and Specific Issues for Studies of Hydroclimate<br>
-  Johann Jungclaus<br>
-  The Global Monsoon Response to Volcanic Eruptions in the CMIP5 past1000 Simulations and Model Simulations of FGOALS<br>
-  Wenmin Man<br> 
-  An Ensemble of Simulations for the Last Millennium with CESM<br>
-  Bette Otto-Bliesner<br>
-  Hydroclimate Responses to Volcanic Eruptions in CESM<br>
-  Samantha Stevenson<br>
-  What We Talk About When We Talk About Hydroclimate: Challenges in Model/Data Comparisons<br>
-  Ben Cook<br>
-  Droughts in the Last Two Millennia: Challenges in its Definition and Connection to Modes of Variability<br>
-  Christoph Raible and Flavio Lehner<br>
-  Challenges and Opportunities for Data-Model Comparisons in Australia<br>
-  Ailie Gallant<br>
-  Paleoclimate Model-Data Comparisons of Hydroclimate over North America<br>
-  Sloan Coats<br>
-  Hydroclimate Changes in the Tropical Pacific over the Last Millennium: Data-Model Comparisons and Possible Mechanisms<br>
-  Alyssa Atwood<br>
-  A Robust Null Hypothesis for the Role of the Tropical Pacific in Driving Megadrought in Western North America<br>
-  Toby Ault<br>
-  Introduction to Proxy System Modeling<br>
-  Mike Evans<br>
-  Model-Data Comparisons: Understanding Water Isotopes in Speleothems<br>
-  Sophie Lewis<br>
-  An Update on Proxy System Modeling and Model-Data Comparison: Progress, Challenges, and Applications<br>
-  Sylvia Dee<br>
-  Assimilation of PAGES2k Continental Temperature Reconstructions using GCM Ensemble Member Selection<br>
-  Martin Widmann<br>
-  Hydroclimate Reconstructions Using Data Assimilation<br>
-  Nathan Steiger<br>"
-  imgSrc: "img/minimal-digital-rain.jpg"
+- name: 'Jason Smerdon |'
+  description: 'Workshop Introduction |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/00_PAGES2k-PMIP3_WorkshopIntroduction.pdf
 
-- name: Educational Outreach Event
-  description: "After the completion of the scientific workshop, two dozen middle and high school educators attended an outreach event designed to present the major themes of workshop focus and to give the teachers an opportunity to interact with scientists in an informal and interactive setting. The event started with presentations by workshop attendees Gavin Schmidt and Kim Cobb discussing their two different approaches to studying Earth’s climate history, one through the use of computer modeling of the climate system and the other through the use of paleoclimatic records. A question and answer session followed the two presentations, afterwhich the teachers were given a chance to divide into small groups and pursue discussions with additional scientists from the workshop to discuss their research and ideas for inquiry-based learning activities for high-school students.  An Earth Institute news piece on the event is available here."
-  imgSrc: "img/Meeting-3.jpg"
+- name: 'Thomas Felis |'
+  description: 'Hydroclimate over the Common Era from Sr/Ca and Oxygen Isotope Records of Corals |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/01_PAGES2kPMIP3_Felis_2016.pdf
+
+- name: 'Kevin Anchukaitis |'
+  description: 'Hydroclimate Signals in Tree-Ring Chronologies Across Time and Space |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/02_PAGES2kPMIP3_Anchukaitis_2016.pdf
+
+- name: 'Jessica Tierney |'
+  description: 'Interpreting Past Hydroclimate Variability from Sedimentary Records: Challenges and Considerations |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/03_PAGES2kPMIP3_Tierney_2016.pdf
+
+- name: 'Michael Griffiths |'
+  description: 'Australasian Monsoon Variability During the Common Era Inferred from Indo-Pacific Speleothem Records |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/04_PAGES2kPMIP3_Griffiths_2016.pdf
+
+- name: 'Bronwen Konecky and Jud Partin |'
+  description: 'Iso2k: A Community-Sourced Global Database of Paleo-Water Isotopes from the Past Two Millennia |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/05_PAGES2kPMIP3_Konecky-Partin_2016.pdf
+
+- name: 'Hans Linderholm |'
+  description: 'An Update on the Arctic 2k Hydroclimate Efforts |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/06_PAGES2kPMIP3_Linderholm_2016.pdf
+
+- name: 'Edward Cook |'
+  description: 'The Role of Tree Ring Drought Atlases in Climate Change Research: State of the Art and Future Developments |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/07_PAGES2kPMIP3_Cook_2016.pdf
+
+- name: "Huan Zhang |"
+  description: 'Warm-Season Precipitation Reconstruction over Asia in the Past Half Millennium: Tibetan Plateau |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/
+
+- name: 'Gavin Schmidt and Allegra LeGrande |'
+  description: 'Last Millennium Simulations at GISS Including Water Isotopes |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/09_PAGES2kPMIP3_Schmidt_2016.pdf
+
+- name: 'Johann Jungclaus |'
+  description: 'Simulations of the Common Era in PMIP4/CMIP6: Overview and Specific Issues for Studies of Hydroclimate |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/10_PAGES2kPMIP3_Jungclaus_2016.pdf
+
+- name: 'Wenmin Man |'
+  description: 'The Global Monsoon Response to Volcanic Eruptions in the CMIP5 past 1000 Simulations and Model Simulations of FGOALS |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/11_PAGES2kPMIP3_Man_2016.pdf
+
+- name: 'Bette Otto-Bliesner |'
+  description: 'An Ensemble of Simulations for the Last Millennium with CESM |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/12_PAGES2kPMIP3_Otto-Bliesner_2016.pdf
+
+- name: 'Samantha Stevenson |'
+  description: 'Hydroclimate Responses to Volcanic Eruptions in CESM |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/13_PAGES2kPMIP3_Stevenson_2016.pdf
+
+- name: 'Ben Cook |'
+  description: 'What We Talk About When We Talk About Hydroclimate: Challenges in Model/Data Comparisons |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/14_PAGES2kPMIP3_Cook_2016.pdf
+
+- name: 'Christoph Raible and Flavio Lehner |'
+  description: 'Droughts in the Last Two Millennia: Challenges in its Definition and Connection to Modes of Variability |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/15_PAGES2kPMIP3_Raible_2016.pdf
+
+- name: 'Ailie Gallant |'
+  description: 'Challenges and Opportunities for Data-Model Comparisons in Australia |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/16_PAGES2kPMIP3_Gallant_2016.pdf
+
+- name: 'Sloan Coats |'
+  description: 'Paleoclimate Model-Data Comparisons of Hydroclimate over North America |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/17_PAGES2kPMIP3_Coats_2016.pdf
+
+- name: 'Alyssa Atwood |'
+  description: 'Hydroclimate Changes in the Tropical Pacific over the Last Millennium: Data-Model Comparisons and Possible Mechanisms |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/18_PAGES2kPMIP3_Atwood_2016.pdf
+
+- name: 'Toby Ault |'
+  description: 'A Robust Null Hypothesis for the Role of the Tropical Pacific in Driving Megadrought in Western North America |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/19_PAGES2kPMIP3_Ault_2016.pdf
+
+- name: 'Mike Evans'
+  description: 'Introduction to Proxy System Modeling |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/20_PAGES2kPMIP3_Anchukaitis-Evans_2016.pdf
+
+- name: 'Sophie Lewis |'
+  description: 'Model-Data Comparisons: Understanding Water Isotopes in Speleothems |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/22_PAGES2kPMIP3_Lewis_2016.pdf
+
+- name:  'Sylvia Dee |'
+  description: 'An Update on Proxy System Modeling and Model-Data Comparison: Progress, Challenges, and Applications |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/23_PAGES2kPMIP3_Dee_2016.pdf
+
+- name: 'Martin Widmann |'
+  description: 'Assimilation of PAGES2k Continental Temperature Reconstructions using GCM Ensemble Member Selection |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/24_PAGES2kPMIP3_Widmann_2016.pdf
+
+- name: 'Nathan Steiger |'
+  description: 'Hydroclimate Reconstructions Using Data Assimilation |'
+  link: http://www.ldeo.columbia.edu/~jsmerdon/pages2kpmip3/25_PAGES2kPMIP3_Stieger_2016.pdf
